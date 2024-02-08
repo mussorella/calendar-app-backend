@@ -1,0 +1,11 @@
+//backend creado
+
+//npm install express
+//npm install express-validator
+//npm install dotenv
+//npm i bcrypt
+//npm i jsonwebtoken
+//npm i moment
+
+//para reactivar token:
+//entro a postman y le doy al send del login genera un token y deahi puedo ponerlo en los otros para ver si trabaja con la peticion

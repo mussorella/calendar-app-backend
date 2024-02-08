@@ -9,3 +9,7 @@
 
 //para reactivar token:
 //entro a postman y le doy al send del login genera un token y deahi puedo ponerlo en los otros para ver si trabaja con la peticion
+
+//git init
+//git add . 
+//git commit "backend"

@@ -10,6 +10,10 @@
 //para reactivar token:
 //entro a postman y le doy al send del login genera un token y deahi puedo ponerlo en los otros para ver si trabaja con la peticion
 
+//lo vamos a subir a heroku para eso primero subo con git
+
 //git init
 //git add . 
 //git commit "backend"
+
+//entro a heroku

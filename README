@@ -17,3 +17,18 @@
 //git commit "backend"
 
 //entro a heroku
+//hay q pagara sique ahsta aca llego
+//heroku--version
+//brew tap heroku/brew && brew install heroku
+//descargar el home brew
+//heroku login
+//cd my project
+//git init
+//heroku git:remote -a mern-calendar10
+//git add
+//git commit-am "fede"
+//git push heroku master
+//git remote -v con eso veo los repopsitoriois
+//usar el link de la app en postman
+//copio y pongo el link api/auth y si em da el token anda bien
+//heroku logs -n 100 --tail m da data 

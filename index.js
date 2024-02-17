@@ -23,6 +23,10 @@ app.use('/api/auth', require('./routes/auth') );
 app.use('/api/events', require('./routes/events') );
 
 
+app.get('*', (req,res)=>{
+    res.sendFile(__dirname + '/public/index.html')
+})//cree un comodin para archivo index
+
 
 // Escuchar peticiones
 app.listen( process.env.PORT, () => {
